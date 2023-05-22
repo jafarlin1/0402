@@ -1,0 +1,38 @@
+{
+  "characterName": "Hello Kitty (凱蒂貓)",
+  "creationCompany": "三麗鷗",
+  "firstAppearanceYear": 1974,
+  "birthPlace": "倫敦",
+  "fullName": "Kitty White",
+  "personality": "開朗、友善、善良",
+  "familyMembers": [
+    {
+      "relation": "twinSister",
+      "name": "Mimmy",
+      "zodiacSign": "天蠍座"
+    },
+    {
+      "relation": "father",
+      "name": "George White",
+      "zodiacSign": "獅子座"
+    },
+    {
+      "relation": "mother",
+      "name": "Mary White",
+      "zodiacSign": "雙魚座"
+    },
+    {
+      "relation": "grandfather",
+      "name": "Anthony White",
+      "zodiacSign": "牡羊座"
+    },
+    {
+      "relation": "grandmother",
+      "name": "Margaret White",
+      "zodiacSign": "處女座"
+    }
+  ],
+  "features": "頭戴紅色或粉紅色的蝴蝶結，身穿各式可愛衣服",
+  "popularityScore": 98.7,
+  "numberOfAwards": 10
+}
