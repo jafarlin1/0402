@@ -1,0 +1,50 @@
+{
+  "group": "(G)I-DLE",
+  "members": [
+    {
+      "name": "Soyeon",
+      "position": "Leader, Main Rapper, Lead Dancer, Vocalist, Center",
+      "birth_date": "1998-08-26",
+      "nationality": "South Korean"
+    },
+    {
+      "name": "Miyeon",
+      "position": "Lead Vocalist",
+      "birth_date": "1997-01-31",
+      "nationality": "South Korean"
+    },
+    {
+      "name": "Minnie",
+      "position": "Lead Vocalist, Lead Dancer",
+      "birth_date": "1997-10-23",
+      "nationality": "Thai"
+    },
+    {
+      "name": "Soojin",
+      "position": "Main Dancer, Lead Vocalist, Sub Rapper",
+      "birth_date": "1998-03-09",
+      "nationality": "South Korean"
+    },
+    {
+      "name": "Yuqi",
+      "position": "Lead Vocalist, Lead Rapper",
+      "birth_date": "1999-09-23",
+      "nationality": "Chinese"
+    },
+    {
+      "name": "Shuhua",
+      "position": "Vocalist, Visual, Maknae",
+      "birth_date": "2000-01-06",
+      "nationality": "Taiwanese"
+    }
+  ],
+  "debut_date": "2018-05-02",
+  "company": "Cube Entertainment",
+  "genres": ["K-pop", "Hip Hop", "EDM"],
+  "awards": [
+    "2018 Mnet Asian Music Awards - Best New Female Artist",
+    "2019 Seoul Music Awards - New Artist of the Year",
+    "2019 Golden Disc Awards - Rookie of the Year",
+    "2020 Soribada Best K-Music Awards - Performance Award"
+  ]
+}
